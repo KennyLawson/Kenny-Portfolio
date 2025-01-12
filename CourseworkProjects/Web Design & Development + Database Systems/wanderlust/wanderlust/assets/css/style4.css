@@ -1,0 +1,167 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #28206e;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    text-transform: uppercase;
+  }
+  
+  header p {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .header-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+  }
+  
+  .header-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    z-index: -1;
+  }
+  
+  .header-background {
+    background-image: url("path/to/background-image.jpg");
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  
+  .container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .tour-detail {
+    margin-bottom: 20px;
+  }
+  
+  .tour-title {
+    font-size: 28px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #333;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .tour-image img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .tour-description p {
+    line-height: 1.4;
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .tour-details {
+    background-color: #b1afd3;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .tour-details ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .tour-details ul li {
+    margin-bottom: 10px;
+    color: #555;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .tour-price h3 {
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .price {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #232324;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  
+  .btn-container {
+    text-align: center;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  
+  .btn-secondary {
+    background-color: #202170;
+    color: #fff;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #2d3069;
+  }
+  
+  
+  footer {
+    background-color: #ffffff;
+    color: #000000ef;
+    padding: 20px;
+    text-align: center;
+  }
+  
