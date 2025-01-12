@@ -1,5 +1,5 @@
 # 📂 Coursework Projects
-This folder contains various projects I have completed as part of my undergraduate coursework in Information Systems. Each project showcases my technical and analytical skills in areas such as Big Data Analytics, Machine Learning, Data Visualization, and Enterprise Resource Planning (ERP), etc.
+This folder contains various projects I have completed as part of my undergraduate coursework in Information Systems. Each project showcases my technical and analytical skills in areas such as Big Data Analytics, Machine Learning, Data Visualization, etc.
 
 # 🔍 What’s Inside?
 - Documented Code: Clean and structured code with comments for better understanding.
